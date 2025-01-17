@@ -4,7 +4,7 @@ def connect_to_db():
     connection = mysql.connector.connect(
         host="localhost",      
         user="root",  
-        password="11111111",
+        password="Your Password",
         database="healthcare_db" 
     )
     return connection
