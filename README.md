@@ -10,7 +10,7 @@ The Healthcare Analytics Dashboard is a user-friendly platform designed to analy
 - **Financial Analysis:** Analyze average billing amounts based on conditions, hospitals, and insurance providers.
 - **Medical Trends:** Explore admission types, discharge timelines, and medication usage.
 
---- 
+---  
 
 ## Project Structure
 ```plaintext
