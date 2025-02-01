@@ -12,7 +12,7 @@ The Healthcare Analytics Dashboard is a user-friendly platform designed to analy
 
 ---  
 
-## Project Structure
+## Project Structure 
 ```plaintext
 Healthcare-Analytics-Dashboard/
 ├── app/
