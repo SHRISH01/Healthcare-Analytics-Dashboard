@@ -11,7 +11,7 @@ The Healthcare Analytics Dashboard is a user-friendly platform designed to analy
 - **Medical Trends:** Explore admission types, discharge timelines, and medication usage.
 
 ---  
-
+ 
 ## Project Structure 
 ```plaintext
 Healthcare-Analytics-Dashboard/
