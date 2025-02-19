@@ -1,4 +1,4 @@
-# Healthcare Analytics Dashboard
+# Healthcare Analytics Dashboard 
 
 ## Overview
 The Healthcare Analytics Dashboard is a user-friendly platform designed to analyze and visualize key healthcare data such as patient demographics, billing information, medical conditions, and more. This dashboard is built using Python, Streamlit, and MySQL, providing interactive and insightful visualizations for healthcare administrators and stakeholders.
